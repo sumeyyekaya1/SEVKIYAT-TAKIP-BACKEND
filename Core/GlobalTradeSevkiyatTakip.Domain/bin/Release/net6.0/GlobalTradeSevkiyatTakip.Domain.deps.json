@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GlobalTradeSevkiyatTakip.Domain/1.0.0": {
+        "runtime": {
+          "GlobalTradeSevkiyatTakip.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GlobalTradeSevkiyatTakip.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

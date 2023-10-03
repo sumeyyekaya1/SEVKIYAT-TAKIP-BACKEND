@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\bin\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.deps.json
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\bin\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\bin\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\refint\GlobalTradeSevkiyatTakip.Domain.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Domain\obj\Release\net6.0\ref\GlobalTradeSevkiyatTakip.Domain.dll

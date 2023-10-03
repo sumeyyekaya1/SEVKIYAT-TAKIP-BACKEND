@@ -1,0 +1,57 @@
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.deps.json
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.runtimeconfig.json
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.pdb
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Application.dll
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Domain.dll
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Application.pdb
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Domain.pdb
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.CopyComplete
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\refint\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.pdb
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\ref\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.deps.json
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.runtimeconfig.json
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.pdb
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Application.dll
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Domain.dll
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Application.pdb
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Domain.pdb
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.AssemblyReference.cache
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.AssemblyInfoInputs.cache
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.AssemblyInfo.cs
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.CopyComplete
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\refint\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.pdb
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.genruntimeconfig.cache
+C:\Users\Global Trade\Desktop\GlobalTrade_App\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\ref\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.deps.json
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.runtimeconfig.json
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Application.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Domain.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Application.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\bin\Debug\net6.0\GlobalTradeSevkiyatTakip.Domain.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\refint\GlobalTradeSevkiyatTakip.Persistance.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\GlobalTradeSevkiyatTakip.Persistance.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Infrastructure\GlobalTradeSevkiyatTakip.Persistance\obj\Debug\net6.0\ref\GlobalTradeSevkiyatTakip.Persistance.dll

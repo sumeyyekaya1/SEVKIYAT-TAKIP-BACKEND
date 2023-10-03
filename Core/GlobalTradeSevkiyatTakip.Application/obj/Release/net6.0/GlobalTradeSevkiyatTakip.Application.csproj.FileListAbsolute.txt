@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\bin\Release\net6.0\GlobalTradeSevkiyatTakip.Application.deps.json
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\bin\Release\net6.0\GlobalTradeSevkiyatTakip.Application.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\bin\Release\net6.0\GlobalTradeSevkiyatTakip.Application.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\bin\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\bin\Release\net6.0\GlobalTradeSevkiyatTakip.Domain.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Application.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Application.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\refint\GlobalTradeSevkiyatTakip.Application.dll
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\GlobalTradeSevkiyatTakip.Application.pdb
+C:\Users\Administrator\Desktop\GlobalTradeSevkiyatTakip\Core\GlobalTradeSevkiyatTakip.Application\obj\Release\net6.0\ref\GlobalTradeSevkiyatTakip.Application.dll
